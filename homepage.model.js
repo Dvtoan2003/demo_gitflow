@@ -1,0 +1,1 @@
+document.write('đây là trang home page')
