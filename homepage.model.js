@@ -1,1 +1,1 @@
-document.write('ddaya laf home page')
+document.write('đây là trang home page')
